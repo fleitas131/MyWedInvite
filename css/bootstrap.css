@@ -2574,6 +2574,10 @@ pre code {
     margin-left: 8.33333%;
   }
 
+  .col-md-offset-1 .btn{
+    margin-left: 114%;
+  }
+
   .col-md-offset-2 {
     margin-left: 16.66667%;
   }
