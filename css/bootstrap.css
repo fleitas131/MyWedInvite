@@ -1931,6 +1931,9 @@ pre code {
   padding-left: 15px;
   padding-right: 15px;
 }
+
+
+
 .container:before, .container:after {
   content: " ";
   display: table;
@@ -1946,6 +1949,10 @@ pre code {
 @media (min-width: 992px) {
   .container {
     width: 970px;
+  }
+
+  .container .col-md-6 {
+    margin-left: 25%;
   }
 }
 @media (min-width: 1200px) {
